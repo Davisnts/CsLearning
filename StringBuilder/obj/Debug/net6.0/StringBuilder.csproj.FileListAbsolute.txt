@@ -1,0 +1,15 @@
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfo.cs
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Curs\Cesharp\StringBuilder\bin\Debug\net6.0\StringBuilder.exe
+C:\Curs\Cesharp\StringBuilder\bin\Debug\net6.0\StringBuilder.deps.json
+C:\Curs\Cesharp\StringBuilder\bin\Debug\net6.0\StringBuilder.runtimeconfig.json
+C:\Curs\Cesharp\StringBuilder\bin\Debug\net6.0\StringBuilder.dll
+C:\Curs\Cesharp\StringBuilder\bin\Debug\net6.0\StringBuilder.pdb
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.dll
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\refint\StringBuilder.dll
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.pdb
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\StringBuilder.genruntimeconfig.cache
+C:\Curs\Cesharp\StringBuilder\obj\Debug\net6.0\ref\StringBuilder.dll

@@ -1,0 +1,15 @@
+C:\Curs\Cesharp\FileCS\bin\Release\net7.0\FileCS.exe
+C:\Curs\Cesharp\FileCS\bin\Release\net7.0\FileCS.deps.json
+C:\Curs\Cesharp\FileCS\bin\Release\net7.0\FileCS.runtimeconfig.json
+C:\Curs\Cesharp\FileCS\bin\Release\net7.0\FileCS.dll
+C:\Curs\Cesharp\FileCS\bin\Release\net7.0\FileCS.pdb
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.csproj.AssemblyReference.cache
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.AssemblyInfoInputs.cache
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.AssemblyInfo.cs
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.csproj.CoreCompileInputs.cache
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.dll
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\refint\FileCS.dll
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.pdb
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\FileCS.genruntimeconfig.cache
+C:\Curs\Cesharp\FileCS\obj\Release\net7.0\ref\FileCS.dll

@@ -1,0 +1,15 @@
+C:\Curs\Cesharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Curs\Cesharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Curs\Cesharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Curs\Cesharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Curs\Cesharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Curs\Cesharp\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
